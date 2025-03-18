@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner">
 </p>
 
-<h1 align="center">Hey there, I'm Romain ABBONATO 👋</h1>
+<h1 align="center">Hey there ! 👋</h1>
 
 ## 🚀 About Me  
 
