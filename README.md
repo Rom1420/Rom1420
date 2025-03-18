@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/header.png" alt="Banner">
 </p>
 
 <div style="text-align: center;">
